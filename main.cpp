@@ -4,7 +4,7 @@ int main()
 {
 	printf("Hallo Git!\n");
 
-	printf("PullRequest Branch Changed\n");
+	printf("コンフリクト修正！\n");
 
 	return 0;
 }
